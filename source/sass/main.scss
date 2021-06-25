@@ -38,6 +38,9 @@
 @import "./wagtail/blocks/dear-internet-letter";
 @import "./wagtail/blocks/feature-quote";
 @import "./wagtail/blocks/image-text-mini";
+@import "./wagtail/blocks/paragraph";
+@import "./wagtail/blocks/article";
+@import "./wagtail/blocks/profiles";
 
 // Misc
 
@@ -62,7 +65,6 @@
 @import "./views/youtube-regrets-reporter";
 @import "./views/dear-internet";
 @import "./views/publication";
-@import "./views/article";
 
 // MozFest
 
